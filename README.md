@@ -1,2 +1,2 @@
 # VueTutorial
-Udemy vue tutorial to started how to program with vue freamwork
+Udemy vue tutorial to started how to program with vue framework
